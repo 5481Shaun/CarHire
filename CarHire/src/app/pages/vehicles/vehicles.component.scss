@@ -1,0 +1,40 @@
+@import '../../../themes/themes.scss';
+
+.vehicle-view-container {
+    width: 100%;
+    box-shadow: border-box;
+    display: flex;
+    justify-content: center;
+    .vehicle-view-content {
+    display: flex;//if the content is vertically
+    width: 90%;
+    grid-column-gap: 45;
+    padding: $zero-padding $tertiary-padding;
+    .image-section{
+        width: 50%;
+        display: flex;
+        align-items: center;
+          img{
+            width: 100%;
+            height: 80%;
+        }
+    }
+    .vehicle-detail-section{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      .vehicle-name {
+        font-size: $font-size22;
+        font-weight: 600;
+        margin-bottom: $main-padding;
+        color: $blackish-color;
+      }
+      .vehicle-model {
+        color: $greyish-color;
+        font-size: $font-size16;
+
+      }
+    }
+}
+}
