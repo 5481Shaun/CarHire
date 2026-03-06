@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CarRentalAPI",
+    "\\CarRentalAPI\\Database",
+    "\\CarRentalAPI\\Model",
+    "\\CarRentalAPI\\Model\\Domain"
+  ],
+  "SelectedNode": "\\CarRentalAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

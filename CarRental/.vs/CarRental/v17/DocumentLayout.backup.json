@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pros\\CarHire\\CarRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|c:\\pros\\carhire\\carrental\\carrentalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|solutionrelative:carrentalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|c:\\pros\\carhire\\carrental\\carrentalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|solutionrelative:carrentalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|c:\\pros\\carhire\\carrental\\carrentalapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|solutionrelative:carrentalapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|c:\\pros\\carhire\\carrental\\carrentalapi\\model\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|solutionrelative:carrentalapi\\model\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|c:\\pros\\carhire\\carrental\\carrentalapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|solutionrelative:carrentalapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|c:\\pros\\carhire\\carrental\\carrentalapi\\repository\\imagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|solutionrelative:carrentalapi\\repository\\imagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|c:\\pros\\carhire\\carrental\\carrentalapi\\repository\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|solutionrelative:carrentalapi\\repository\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|c:\\pros\\carhire\\carrental\\carrentalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|solutionrelative:carrentalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|c:\\pros\\carhire\\carrental\\carrentalapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012E4EAC-6BCF-48A9-8169-D5422238545F}|CarRentalAPI\\CarRentalAPI.csproj|solutionrelative:carrentalapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CarRentalAPI\\appsettings.json",
+              "ToolTip": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\appsettings.json",
+              "RelativeToolTip": "CarRentalAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T06:48:15.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CarRentalAPI\\Program.cs",
+              "ToolTip": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Program.cs*",
+              "RelativeToolTip": "CarRentalAPI\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:59:37.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalImageRepository.cs",
+              "DocumentMoniker": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Repository\\LocalImageRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalAPI\\Repository\\LocalImageRepository.cs",
+              "ToolTip": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Repository\\LocalImageRepository.cs",
+              "RelativeToolTip": "CarRentalAPI\\Repository\\LocalImageRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:57:41.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImagesRepository.cs",
+              "DocumentMoniker": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Repository\\ImagesRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalAPI\\Repository\\ImagesRepository.cs",
+              "ToolTip": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Repository\\ImagesRepository.cs",
+              "RelativeToolTip": "CarRentalAPI\\Repository\\ImagesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:52:43.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "CarRentalAPI\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "CarRentalAPI\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:01:15.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarRentalAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarRentalAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:12:44.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalAPI\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "CarRentalAPI\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:08:23.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalAPI\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "CarRentalAPI\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:12:15.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Model\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CarRentalAPI\\Model\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Pros\\CarHire\\CarRental\\CarRentalAPI\\Model\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "CarRentalAPI\\Model\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:45:28.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
